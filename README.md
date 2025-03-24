@@ -1,1 +1,1 @@
-# PersianPriceInsights_OpinionMining_NLP
+# Price_Insights_Opinion_Mining_NLP
